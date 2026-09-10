@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="260" viewBox="0 0 1500 260">
+<rect width="1500" height="260" rx="28" fill="#0b0d10"/>
+<text x="50" y="48" fill="#ffffff" font-family="Arial" font-size="24" font-weight="700">Arquitetura de alto nível</text>
+<rect x="50" y="92" width="192" height="100" rx="20" fill="#131821" stroke="#294f43" stroke-opacity=".7"/>
+<text x="146.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">Visitante</text>
+<line x1="250" y1="142" x2="279" y2="142" stroke="#294f43" stroke-width="3" opacity=".8"/>
+<path d="M 271 135 L 279 142 L 271 149" fill="none" stroke="#294f43" stroke-width="3"/>
+<rect x="287" y="92" width="192" height="100" rx="20" fill="#131821" stroke="#294f43" stroke-opacity=".7"/>
+<text x="383.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">Next.js</text>
+<line x1="487" y1="142" x2="516" y2="142" stroke="#294f43" stroke-width="3" opacity=".8"/>
+<path d="M 508 135 L 516 142 L 508 149" fill="none" stroke="#294f43" stroke-width="3"/>
+<rect x="524" y="92" width="192" height="100" rx="20" fill="#131821" stroke="#294f43" stroke-opacity=".7"/>
+<text x="620.0" y="135" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="18" font-weight="700">Materiais</text>
+<text x="620.0" y="161" text-anchor="middle" fill="#aeb8c7" font-family="Arial" font-size="15">Projetos • Ambientes</text>
+<line x1="724" y1="142" x2="753" y2="142" stroke="#294f43" stroke-width="3" opacity=".8"/>
+<path d="M 745 135 L 753 142 L 745 149" fill="none" stroke="#294f43" stroke-width="3"/>
+<rect x="761" y="92" width="192" height="100" rx="20" fill="#131821" stroke="#294f43" stroke-opacity=".7"/>
+<text x="857.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">Validação server-side</text>
+<line x1="961" y1="142" x2="990" y2="142" stroke="#294f43" stroke-width="3" opacity=".8"/>
+<path d="M 982 135 L 990 142 L 982 149" fill="none" stroke="#294f43" stroke-width="3"/>
+<rect x="998" y="92" width="192" height="100" rx="20" fill="#131821" stroke="#294f43" stroke-opacity=".7"/>
+<text x="1094.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">Supabase / Storage</text>
+<line x1="1198" y1="142" x2="1227" y2="142" stroke="#294f43" stroke-width="3" opacity=".8"/>
+<path d="M 1219 135 L 1227 142 L 1219 149" fill="none" stroke="#294f43" stroke-width="3"/>
+<rect x="1235" y="92" width="192" height="100" rx="20" fill="#131821" stroke="#294f43" stroke-opacity=".7"/>
+<text x="1331.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">WhatsApp</text>
+</svg>
