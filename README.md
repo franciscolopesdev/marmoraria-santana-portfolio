@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logoColor=3178C6) ![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logoColor=3ECF8E) ![Zod](https://img.shields.io/badge/Zod-18181b?style=for-the-badge&logoColor=3E67B1) ![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logoColor=2EAD33)
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Zod-18181B?style=for-the-badge&logo=zod&logoColor=3E67B1" alt="Zod"/>
+  <img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright"/>
 </p>
 
 > **Status:** Prévia comercial desenvolvida para apresentação — código e dados de produção permanecem privados.
